@@ -1,4 +1,4 @@
-<img align="right" alt="IMG" src="https://www.freepik.com/free-vector/css-html-programming-languages-computer-programming-coding-it-female-programmer-cartoon-character-software-website-development_11669065.htm#query=%20girl%20coding&position=4" width="500" height="320" />
+<img align="center" alt="IMG" src="https://media.istockphoto.com/vectors/african-american-happy-girl-learning-coding-vector-id1093952750?k=6&m=1093952750&s=612x612&w=0&h=EpFP4ybywcsjM7lJ3iKA_v7Jd7FiQAARGRQT3r0Avc0=" width="300" height="300" />
 <br>
 
 
