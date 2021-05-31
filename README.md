@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Web Development.
 - 🤔 I’m looking for help with API.
 - 💬 I like learning about new technologies and exploring different opportunities.
-- 📫 How to reach me: 
+- 📫 How to reach me: Twitter-  ,LinkedIn-
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like watching series.
