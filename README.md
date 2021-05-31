@@ -1,4 +1,6 @@
-<img align="center" alt="IMG" src="https://media.istockphoto.com/vectors/african-american-happy-girl-learning-coding-vector-id1093952750?k=6&m=1093952750&s=612x612&w=0&h=EpFP4ybywcsjM7lJ3iKA_v7Jd7FiQAARGRQT3r0Avc0=" width="300" height="300" />
+
+
+<center><img align="middle" alt="IMG" src="https://octodex.github.com/images/femalecodertocat.png" width="100%" height="auto" /></center>
 <br>
 
 
