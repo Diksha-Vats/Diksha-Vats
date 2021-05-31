@@ -1,6 +1,6 @@
 
 
-<center><img align="middle" alt="IMG" src="https://octodex.github.com/images/femalecodertocat.png" width="100%" height="auto" /></center>
+<center><img align="middle" alt="IMG" src="https://octodex.github.com/images/femalecodertocat.png" width="30%" height="auto" /></center>
 <br>
 
 
