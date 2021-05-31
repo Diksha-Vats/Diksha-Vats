@@ -1,10 +1,10 @@
 
+<p align="center">
+<img align="center" alt="IMG" src="https://octodex.github.com/images/femalecodertocat.png" height="300" />
+  </p>
 
-<center><img align="middle" alt="IMG" src="https://octodex.github.com/images/femalecodertocat.png" width="30%" height="auto" /></center>
-<br>
 
-
-### Hi,I'm Diksha Kumari 👋
+<h3 align="center">Hey! I'm trying to code,you?👋</h3>
 
 
 
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Web Development.
 - 🤔 I’m looking for help with API.
 - 💬 I like learning about new technologies and exploring different opportunities.
-- 📫 How to reach me: Twitter-  ,LinkedIn-
+- 📫 How to reach me: Gmail - dikshavatsz2050@gmail.com ,LinkedIn-
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like watching series.
 
