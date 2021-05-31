@@ -1,4 +1,4 @@
-<img align="right" alt="IMG" src="https://depositphotos.com/237381620/stock-illustration-cute-smiling-girl-sitting-laptop.html" width="500" height="320" />
+<img align="right" alt="IMG" src="https://www.freepik.com/free-vector/css-html-programming-languages-computer-programming-coding-it-female-programmer-cartoon-character-software-website-development_11669065.htm#query=%20girl%20coding&position=4" width="500" height="320" />
 <br>
 
 
