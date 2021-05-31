@@ -1,3 +1,7 @@
+<img align="right" alt="IMG" src="https://depositphotos.com/237381620/stock-illustration-cute-smiling-girl-sitting-laptop.html" width="500" height="320" />
+<br>
+
+
 ### Hi,I'm Diksha Kumari 👋
 
 
