@@ -23,3 +23,4 @@
   </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Diksha-Vats&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://komarev.com/ghpvc/?username=Diksha-Vats&label=Profile%20views&color=0e75b6&style=flat" alt="Diksha" align="left" /> </p>
