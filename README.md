@@ -11,7 +11,8 @@
 
 
 
-- 🔭 I’m currently working as Software developer at UST Global.
+- 🔭 I’m currently working as Full-Stack developer at UST Global.
+- ⚡ Working in US Healthcare domain.
 - 👯 I’m looking to collaborate on Web Development.
 - 💬 I like learning about new technologies and exploring different opportunities.
 - 😄 Pronouns: She/Her
